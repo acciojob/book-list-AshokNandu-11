@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+	margin:20px;
+}
+h1 span{
+	color:#007bff;
+}
+.form-group{
+	margin:auto;
+	max-width:500px;
+}
+#submit{
+	margin-top:0px
+}
